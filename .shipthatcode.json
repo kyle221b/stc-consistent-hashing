@@ -1,0 +1,54 @@
+{
+  "course": "build-consistent-hashing",
+  "language": "go",
+  "language_id": 60,
+  "entrypoint": "main.go",
+  "version": 1,
+  "content_hash": "118786556fb62000",
+  "lessons": [
+    {
+      "slug": "why-ch",
+      "tests_hash": "170784624bbb"
+    },
+    {
+      "slug": "the-ring",
+      "tests_hash": "66b92360d8f3"
+    },
+    {
+      "slug": "vnodes",
+      "tests_hash": "8532a7f76681"
+    },
+    {
+      "slug": "rebalance",
+      "tests_hash": "b82babeffce1"
+    },
+    {
+      "slug": "weighted",
+      "tests_hash": "a500a7b5453c"
+    },
+    {
+      "slug": "replication",
+      "tests_hash": "31e5d7f180ed"
+    },
+    {
+      "slug": "rendezvous",
+      "tests_hash": "4fd351849d11"
+    },
+    {
+      "slug": "full-ch",
+      "tests_hash": "6caaef6d8637"
+    },
+    {
+      "slug": "jump-consistent-hash",
+      "tests_hash": "b4b2f4965bc8"
+    },
+    {
+      "slug": "maglev-hashing",
+      "tests_hash": "5e0af4035195"
+    },
+    {
+      "slug": "bounded-load-consistent-hashing",
+      "tests_hash": "c933c7104255"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ADD_NODE alpha
+ADD_NODE beta
+ADD_NODE gamma
+RING
+LOOKUP foo

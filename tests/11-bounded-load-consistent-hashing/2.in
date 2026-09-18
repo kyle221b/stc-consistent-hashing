@@ -1,0 +1,4 @@
+ADD_NODE only
+ASSIGN k1
+ASSIGN k2
+STATS

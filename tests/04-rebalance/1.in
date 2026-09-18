@@ -1,0 +1,4 @@
+ADD_NODE A
+ADD_NODE B
+KEYS apple banana cherry
+ADD_NODE_AND_DIFF C

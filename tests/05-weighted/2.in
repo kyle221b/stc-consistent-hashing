@@ -1,0 +1,4 @@
+ADD_NODE A
+ADD_NODE B
+KEYS x y z
+STATS
